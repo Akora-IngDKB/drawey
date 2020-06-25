@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawey</string>
+    <string name="home">Home</string>
+    <string name="tasks">Tasks</string>
+    <string name="chat_support">Chat Support</string>
+    <string name="dummy_text">Main Content\nClick on the FAB to open/close drawer</string>
+</resources>
